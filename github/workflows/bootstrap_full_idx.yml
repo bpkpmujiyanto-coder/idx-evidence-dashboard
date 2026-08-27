@@ -1,0 +1,31 @@
+name: Bootstrap Full IDX Prices
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  bootstrap:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install -r requirements.txt
+      - name: Download missing full histories
+        run: python bootstrap_full_prices.py --start 2025-03-27 --sleep 0.35
+      - name: Commit full price universe
+        run: |
+          git config user.name "idx-dashboard-bot"
+          git config user.email "idx-dashboard-bot@users.noreply.github.com"
+          git add data/price_daily.csv data/bootstrap_status.csv
+          if git diff --cached --quiet; then
+            echo "No changes."
+          else
+            git commit -m "feat: bootstrap Full IDX price history"
+            git push
+          fi

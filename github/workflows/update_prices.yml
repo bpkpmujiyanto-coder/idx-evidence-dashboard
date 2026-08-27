@@ -1,0 +1,31 @@
+name: Update IDX prices
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "30 11 * * 1-5"
+
+permissions:
+  contents: write
+
+jobs:
+  update-prices:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install -r requirements.txt
+      - run: python update_prices.py --lookback-days 10
+      - name: Commit updated prices
+        run: |
+          git config user.name "idx-dashboard-bot"
+          git config user.email "idx-dashboard-bot@users.noreply.github.com"
+          git add data/price_daily.csv data/update_status.csv
+          if git diff --cached --quiet; then
+            echo "No changes."
+          else
+            git commit -m "chore: update IDX prices"
+            git push
+          fi
