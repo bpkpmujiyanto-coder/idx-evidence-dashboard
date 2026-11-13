@@ -7828,7 +7828,7 @@ Date,Ticker,Open,High,Low,Close,AdjClose,Volume,SourceType
 2026-11-10,AGRS,58.0,58.0,53.0,54.0,54.0,1618300,Yahoo Finance via yfinance
 2026-11-11,AGRS,54.0,55.0,52.0,52.0,52.0,3092300,Yahoo Finance via yfinance
 2026-11-12,AGRS,52.0,54.0,52.0,52.0,52.0,3687900,Yahoo Finance via yfinance
-2026-11-13,AGRS,53.0,56.0,53.0,,,1545900,Yahoo Finance via yfinance
+2026-11-13,AGRS,53.0,58.0,53.0,,,1545900,Yahoo Finance via yfinance
 2025-03-27,AHAP,61.0,78.0,59.0,66.0,66.0,32090500,Yahoo Finance via yfinance
 2025-04-08,AHAP,63.0,63.0,57.0,57.0,57.0,25666000,Yahoo Finance via yfinance
 2025-04-09,AHAP,58.0,60.0,53.0,54.0,54.0,9635100,Yahoo Finance via yfinance
@@ -8612,7 +8612,7 @@ Date,Ticker,Open,High,Low,Close,AdjClose,Volume,SourceType
 2026-11-10,AIMS,1020.0,1020.0,1020.0,1020.0,1020.0,279300,Yahoo Finance via yfinance
 2026-11-11,AIMS,950.0,950.0,950.0,950.0,950.0,78700,Yahoo Finance via yfinance
 2026-11-12,AIMS,885.0,1185.0,885.0,1185.0,1185.0,8930700,Yahoo Finance via yfinance
-2026-11-13,AIMS,1295.0,1440.0,1105.0,,,6840300,Yahoo Finance via yfinance
+2026-11-13,AIMS,1295.0,1440.0,1110.0,,,6840300,Yahoo Finance via yfinance
 2025-03-27,AISA,102.0,116.0,101.0,107.0,107.0,28331800,Yahoo Finance via yfinance
 2025-04-08,AISA,98.0,104.0,96.0,99.0,99.0,7267200,Yahoo Finance via yfinance
 2025-04-09,AISA,101.0,103.0,99.0,102.0,102.0,1989900,Yahoo Finance via yfinance
@@ -9791,7 +9791,7 @@ Date,Ticker,Open,High,Low,Close,AdjClose,Volume,SourceType
 2026-11-10,AKPI,650.0,675.0,630.0,640.0,640.0,517400,Yahoo Finance via yfinance
 2026-11-11,AKPI,660.0,700.0,635.0,655.0,655.0,1528500,Yahoo Finance via yfinance
 2026-11-12,AKPI,665.0,680.0,640.0,650.0,650.0,769600,Yahoo Finance via yfinance
-2026-11-13,AKPI,675.0,675.0,660.0,,,360300,Yahoo Finance via yfinance
+2026-11-13,AKPI,675.0,675.0,650.0,,,360300,Yahoo Finance via yfinance
 2025-03-27,AKRA,1105.0,1120.0,1085.0,1095.0,946.6339111328124,14647900,Yahoo Finance via yfinance
 2025-04-08,AKRA,980.0,990.0,945.0,970.0,838.5706176757812,35624800,Yahoo Finance via yfinance
 2025-04-09,AKRA,970.0,990.0,890.0,900.0,778.05517578125,28171900,Yahoo Finance via yfinance
@@ -23892,7 +23892,7 @@ Date,Ticker,Open,High,Low,Close,AdjClose,Volume,SourceType
 2026-11-10,ASDM,478.0,484.0,478.0,484.0,484.0,1300,Yahoo Finance via yfinance
 2026-11-11,ASDM,484.0,484.0,484.0,484.0,484.0,3400,Yahoo Finance via yfinance
 2026-11-12,ASDM,478.0,488.0,472.0,488.0,488.0,500,Yahoo Finance via yfinance
-2026-11-13,ASDM,488.0,488.0,482.0,,,3500,Yahoo Finance via yfinance
+2026-11-13,ASDM,488.0,488.0,484.0,,,3500,Yahoo Finance via yfinance
 2025-03-27,ASGR,815.0,825.0,805.0,820.0,670.74462890625,372800,Yahoo Finance via yfinance
 2025-04-08,ASGR,795.0,795.0,760.0,775.0,633.9354858398438,1774300,Yahoo Finance via yfinance
 2025-04-09,ASGR,790.0,790.0,780.0,780.0,638.025390625,163700,Yahoo Finance via yfinance
@@ -144768,7 +144768,7 @@ Date,Ticker,Open,High,Low,Close,AdjClose,Volume,SourceType
 2026-11-10,HOMI,160.0,208.0,154.0,171.0,171.0,1006500,Yahoo Finance via yfinance
 2026-11-11,HOMI,175.0,175.0,161.0,161.0,161.0,198600,Yahoo Finance via yfinance
 2026-11-12,HOMI,167.0,167.0,161.0,164.0,164.0,645600,Yahoo Finance via yfinance
-2026-11-13,HOMI,168.0,200.0,159.0,,,1112500,Yahoo Finance via yfinance
+2026-11-13,HOMI,168.0,197.0,159.0,,,1112500,Yahoo Finance via yfinance
 2025-03-27,HOPE,38.0,40.0,38.0,40.0,40.0,247200,Yahoo Finance via yfinance
 2025-04-08,HOPE,41.0,41.0,41.0,41.0,41.0,368700,Yahoo Finance via yfinance
 2025-04-09,HOPE,41.0,41.0,41.0,41.0,41.0,272900,Yahoo Finance via yfinance
@@ -164347,7 +164347,7 @@ Date,Ticker,Open,High,Low,Close,AdjClose,Volume,SourceType
 2026-11-10,IPOL,103.0,107.0,102.0,102.0,102.0,68900,Yahoo Finance via yfinance
 2026-11-11,IPOL,102.0,105.0,100.0,101.0,101.0,421400,Yahoo Finance via yfinance
 2026-11-12,IPOL,102.0,108.0,102.0,106.0,106.0,515300,Yahoo Finance via yfinance
-2026-11-13,IPOL,107.0,108.0,105.0,,,190700,Yahoo Finance via yfinance
+2026-11-13,IPOL,107.0,109.0,105.0,,,190700,Yahoo Finance via yfinance
 2025-03-27,IPPE,14.0,14.0,14.0,14.0,14.0,0,Yahoo Finance via yfinance
 2025-04-08,IPPE,14.0,14.0,14.0,14.0,14.0,0,Yahoo Finance via yfinance
 2025-04-09,IPPE,14.0,14.0,14.0,14.0,14.0,0,Yahoo Finance via yfinance
@@ -183792,7 +183792,7 @@ Date,Ticker,Open,High,Low,Close,AdjClose,Volume,SourceType
 2026-11-10,KLAS,67.0,71.0,66.0,68.0,68.0,2825600,Yahoo Finance via yfinance
 2026-11-11,KLAS,68.0,71.0,66.0,69.0,69.0,3203900,Yahoo Finance via yfinance
 2026-11-12,KLAS,69.0,76.0,67.0,73.0,73.0,4342800,Yahoo Finance via yfinance
-2026-11-13,KLAS,73.0,78.0,71.0,,,2966900,Yahoo Finance via yfinance
+2026-11-13,KLAS,73.0,79.0,71.0,,,2966900,Yahoo Finance via yfinance
 2025-03-27,KLBF,1100.0,1135.0,1085.0,1135.0,1078.26513671875,49328700,Yahoo Finance via yfinance
 2025-04-08,KLBF,1025.0,1055.0,990.0,1055.0,1002.2640380859376,79017500,Yahoo Finance via yfinance
 2025-04-09,KLBF,1050.0,1120.0,1050.0,1105.0,1049.7646484375,57273200,Yahoo Finance via yfinance
@@ -197308,7 +197308,7 @@ Date,Ticker,Open,High,Low,Close,AdjClose,Volume,SourceType
 2026-11-10,LPCK,406.0,426.0,406.0,426.0,426.0,244300,Yahoo Finance via yfinance
 2026-11-11,LPCK,426.0,440.0,420.0,434.0,434.0,88700,Yahoo Finance via yfinance
 2026-11-12,LPCK,434.0,436.0,416.0,426.0,426.0,52400,Yahoo Finance via yfinance
-2026-11-13,LPCK,426.0,426.0,416.0,,,127500,Yahoo Finance via yfinance
+2026-11-13,LPCK,426.0,426.0,420.0,,,127500,Yahoo Finance via yfinance
 2025-03-27,LPGI,374.0,386.0,346.0,380.0,369.3392028808594,102600,Yahoo Finance via yfinance
 2025-04-08,LPGI,380.0,380.0,324.0,378.0,367.3952941894531,15400,Yahoo Finance via yfinance
 2025-04-09,LPGI,348.0,378.0,348.0,378.0,367.3952941894531,200,Yahoo Finance via yfinance
@@ -218084,7 +218084,7 @@ Date,Ticker,Open,High,Low,Close,AdjClose,Volume,SourceType
 2026-11-10,MINE,224.0,234.0,224.0,230.0,230.0,93200,Yahoo Finance via yfinance
 2026-11-11,MINE,230.0,234.0,222.0,228.0,228.0,925300,Yahoo Finance via yfinance
 2026-11-12,MINE,238.0,266.0,228.0,236.0,236.0,1200700,Yahoo Finance via yfinance
-2026-11-13,MINE,236.0,270.0,232.0,,,996300,Yahoo Finance via yfinance
+2026-11-13,MINE,236.0,274.0,232.0,,,996300,Yahoo Finance via yfinance
 2025-03-27,MIRA,10.0,10.0,9.0,10.0,10.0,394200,Yahoo Finance via yfinance
 2025-04-08,MIRA,9.0,10.0,9.0,10.0,10.0,950000,Yahoo Finance via yfinance
 2025-04-09,MIRA,10.0,10.0,9.0,9.0,9.0,227900,Yahoo Finance via yfinance
@@ -248364,7 +248364,7 @@ Date,Ticker,Open,High,Low,Close,AdjClose,Volume,SourceType
 2026-11-10,PALM,214.0,224.0,214.0,218.0,218.0,29400,Yahoo Finance via yfinance
 2026-11-11,PALM,216.0,228.0,214.0,220.0,220.0,56000,Yahoo Finance via yfinance
 2026-11-12,PALM,220.0,226.0,220.0,226.0,226.0,27900,Yahoo Finance via yfinance
-2026-11-13,PALM,226.0,226.0,214.0,,,276000,Yahoo Finance via yfinance
+2026-11-13,PALM,226.0,226.0,218.0,,,276000,Yahoo Finance via yfinance
 2025-03-27,PAMG,70.0,73.0,68.0,69.0,69.0,11711500,Yahoo Finance via yfinance
 2025-04-08,PAMG,62.0,68.0,59.0,61.0,61.0,7453400,Yahoo Finance via yfinance
 2025-04-09,PAMG,60.0,60.0,55.0,57.0,57.0,2940900,Yahoo Finance via yfinance
@@ -265784,7 +265784,7 @@ Date,Ticker,Open,High,Low,Close,AdjClose,Volume,SourceType
 2026-11-10,PPRI,79.0,81.0,75.0,77.0,77.0,2460100,Yahoo Finance via yfinance
 2026-11-11,PPRI,77.0,102.0,75.0,91.0,91.0,67539900,Yahoo Finance via yfinance
 2026-11-12,PPRI,100.0,110.0,91.0,94.0,94.0,33865000,Yahoo Finance via yfinance
-2026-11-13,PPRI,94.0,96.0,88.0,,,7883700,Yahoo Finance via yfinance
+2026-11-13,PPRI,94.0,96.0,89.0,,,7883700,Yahoo Finance via yfinance
 2025-03-27,PPRO,21.0,21.0,21.0,21.0,21.0,0,Yahoo Finance via yfinance
 2025-04-08,PPRO,21.0,21.0,21.0,21.0,21.0,0,Yahoo Finance via yfinance
 2025-04-09,PPRO,21.0,21.0,21.0,21.0,21.0,0,Yahoo Finance via yfinance
@@ -270976,7 +270976,7 @@ Date,Ticker,Open,High,Low,Close,AdjClose,Volume,SourceType
 2026-11-10,PTIS,199.0,268.0,194.0,224.0,224.0,3158900,Yahoo Finance via yfinance
 2026-11-11,PTIS,230.0,234.0,210.0,214.0,214.0,1012800,Yahoo Finance via yfinance
 2026-11-12,PTIS,220.0,220.0,200.0,208.0,208.0,348800,Yahoo Finance via yfinance
-2026-11-13,PTIS,210.0,220.0,202.0,,,286700,Yahoo Finance via yfinance
+2026-11-13,PTIS,210.0,222.0,202.0,,,286700,Yahoo Finance via yfinance
 2025-03-27,PTMP,56.0,56.0,55.0,55.0,55.0,2329200,Yahoo Finance via yfinance
 2025-04-08,PTMP,53.0,53.0,51.0,52.0,52.0,7242400,Yahoo Finance via yfinance
 2025-04-09,PTMP,52.0,55.0,52.0,53.0,53.0,3741300,Yahoo Finance via yfinance
@@ -306928,7 +306928,7 @@ Date,Ticker,Open,High,Low,Close,AdjClose,Volume,SourceType
 2026-11-10,SONA,2200.0,2340.0,2200.0,2340.0,2340.0,5500,Yahoo Finance via yfinance
 2026-11-11,SONA,2240.0,2330.0,2220.0,2230.0,2230.0,32800,Yahoo Finance via yfinance
 2026-11-12,SONA,2290.0,2340.0,2230.0,2230.0,2230.0,10400,Yahoo Finance via yfinance
-2026-11-13,SONA,2190.0,2330.0,2190.0,,,4100,Yahoo Finance via yfinance
+2026-11-13,SONA,2190.0,2250.0,2190.0,,,4100,Yahoo Finance via yfinance
 2025-03-27,SOSS,378.0,378.0,372.0,372.0,370.3243103027344,1000,Yahoo Finance via yfinance
 2025-04-08,SOSS,374.0,464.0,374.0,464.0,461.909912109375,518300,Yahoo Finance via yfinance
 2025-04-09,SOSS,480.0,580.0,422.0,424.0,422.090087890625,1221100,Yahoo Finance via yfinance
@@ -324393,7 +324393,7 @@ Date,Ticker,Open,High,Low,Close,AdjClose,Volume,SourceType
 2026-11-10,TIFA,326.0,332.0,290.0,290.0,290.0,1526400,Yahoo Finance via yfinance
 2026-11-11,TIFA,280.0,280.0,270.0,270.0,270.0,411400,Yahoo Finance via yfinance
 2026-11-12,TIFA,270.0,276.0,258.0,272.0,272.0,58500,Yahoo Finance via yfinance
-2026-11-13,TIFA,272.0,298.0,262.0,,,97100,Yahoo Finance via yfinance
+2026-11-13,TIFA,272.0,298.0,258.0,,,97100,Yahoo Finance via yfinance
 2025-03-27,TINS,965.0,970.0,935.0,960.0,883.1290893554688,10898200,Yahoo Finance via yfinance
 2025-04-08,TINS,850.0,875.0,825.0,840.0,772.7379150390625,24496000,Yahoo Finance via yfinance
 2025-04-09,TINS,835.0,925.0,835.0,915.0,841.7323608398438,44854100,Yahoo Finance via yfinance
@@ -339276,7 +339276,7 @@ Date,Ticker,Open,High,Low,Close,AdjClose,Volume,SourceType
 2026-11-10,UNIC,13950.0,14000.0,13900.0,14000.0,14000.0,2900,Yahoo Finance via yfinance
 2026-11-11,UNIC,14000.0,14050.0,13950.0,14050.0,14050.0,9600,Yahoo Finance via yfinance
 2026-11-12,UNIC,14250.0,14275.0,13700.0,14050.0,14050.0,79600,Yahoo Finance via yfinance
-2026-11-13,UNIC,13875.0,14100.0,13700.0,,,61200,Yahoo Finance via yfinance
+2026-11-13,UNIC,13875.0,14100.0,13725.0,,,61200,Yahoo Finance via yfinance
 2025-03-27,UNIQ,540.0,610.0,540.0,560.0,560.0,27246200,Yahoo Finance via yfinance
 2025-04-08,UNIQ,560.0,560.0,490.0,520.0,520.0,34122400,Yahoo Finance via yfinance
 2025-04-09,UNIQ,520.0,540.0,470.0,470.0,470.0,6690000,Yahoo Finance via yfinance
